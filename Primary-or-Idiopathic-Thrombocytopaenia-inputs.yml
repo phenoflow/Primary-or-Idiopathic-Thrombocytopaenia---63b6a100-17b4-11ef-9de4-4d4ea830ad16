@@ -1,0 +1,27 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/thrombocytopenic-primary-or-idiopathic-thrombocytopaenia---primary.py
+inputModule3:
+  class: File
+  path: python/primary-or-idiopathic-thrombocytopaenia-purpura---primary.py
+inputModule4:
+  class: File
+  path: python/essential-primary-or-idiopathic-thrombocytopaenia---primary.py
+inputModule5:
+  class: File
+  path: python/other-primary-or-idiopathic-thrombocytopaenia---primary.py
+inputModule6:
+  class: File
+  path: python/primary-or-idiopathic-thrombocytopaenia---primary.py
+inputModule7:
+  class: File
+  path: python/primary-or-idiopathic-thrombocytopaenia-evan's---primary.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
